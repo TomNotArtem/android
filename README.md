@@ -1,2 +1,2 @@
-### My firs android project on Kotlin
-### Voice Assistant
+### My first Kotlin Android app -> Voice Assistant
+
